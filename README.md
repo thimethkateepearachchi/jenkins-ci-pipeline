@@ -1,2 +1,1 @@
 # Thimeth
-# Thimeth Nethmin
